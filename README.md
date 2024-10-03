@@ -28,7 +28,7 @@ This static website serves as my personal portfolio and resume, where I showcase
 
 ## Hosting
 
-The website is hosted using [GitHub Pages](https://pages.github.com/) and is publicly available at: `https://your-github-username.github.io/portfolio`
+The website is hosted using [GitHub Pages](https://pages.github.com/) and is publicly available at: `https://bradleylawson.github.io/Resume/`
 
 ## Continuous Integration/Continuous Deployment
 
